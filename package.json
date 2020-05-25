@@ -6,16 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/tanuj.dwivedi.civ16/nodejsproject.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/tanuj.dwivedi.civ16/nodejsproject/issues"
-  },
-  "homepage": "https://gitlab.com/tanuj.dwivedi.civ16/nodejsproject#readme",
   "description": "",
   "dependencies": {
     "aws-sdk": "^2.578.0",
